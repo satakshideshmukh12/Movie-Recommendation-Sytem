@@ -1,5 +1,5 @@
 ## Movie Recommender System 
-(Pandas, Natural Language Toolkit, Scikit-learn, Streamlit) 
+Pandas, Natural Language Toolkit, Scikit-learn, Streamlit
 
 • A content based movie recommender system using cosine similarity.
                                   
